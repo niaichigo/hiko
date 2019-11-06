@@ -1,8 +1,8 @@
 .hiko {
-	background-image: url(hiko.JPG);
-	display:cover;
 	width:750px;
 	height:1334px;
+	background-image: url(hiko.JPG);
+	background-size: atuo;
 	font-size:32px;
 	color:red;
 	text-align:center;
